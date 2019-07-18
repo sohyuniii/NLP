@@ -1,6 +1,6 @@
 ## NLP (Natural Language Processing, 자연어처리)
 
-### 3. Feature representation
+### [3. Feature representation](https://github.com/sohyuniii/NLP/blob/master/3.%20Feature%20representation.ipynb)
 - 피처 엔지니어링 : 원시 텍스트 데이터, 코퍼스로부터 텍스트 분석을 위해 도움이 되는 특성을 생성하는 과정
 - 문서의 내용을 대표할 수 있는 단어만 선택에 입력변수로 사용 -> feature selection
 - 텍스트를 컴퓨터로 처리하기에 적합한 형태로 변환 -> **feature representation**
